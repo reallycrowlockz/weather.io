@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Build files
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# API keys
+*.key
+*.json
